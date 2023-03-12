@@ -35,7 +35,7 @@
                         bindings = <
    &kp TAB     &trans      &trans      &trans      &trans      &trans        &kp LBRC    &kp RBRC    &kp EXCL    &kp AT      &kp HASH    &kp DOLLAR  
    &kp LGUI    &trans      &trans      &trans      &trans      &trans        &kp LPAR    &kp RPAR    &kp EQUAL   &kp MINUS   &kp PLUS    &kp UNDER 
-   &kp LSHFT   &trans      &trans      &trans      &trans      &trans        &trans      &kp LBKT    &kp RBKT    &kp PERCENT &kp CARET   &kp AMPS    &kp ASTERISK
+   &kp LSHFT   &trans      &trans      &trans      &trans      &trans        &kp LBKT    &kp RBKT    &kp PERCENT &kp CARET   &kp AMPS    &kp ASTERISK
                           	       &trans      &kp SPACE   &kp ESC       &kp RET     &kp BSPC     &trans
                         >;
                 };
